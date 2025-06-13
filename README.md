@@ -1,3 +1,3 @@
-# Scholarship Information
+# Scholarships
 
-Unfortunately, we encountered an error while fetching scholarship data: Tavily API error: Request failed with status code 400.
+This repository contains information about various scholarships.
